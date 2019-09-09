@@ -5,3 +5,4 @@
 4. git branch master modify
 5. branch test 
 6. merge fix conflicts
+7. git rebase_test modify
