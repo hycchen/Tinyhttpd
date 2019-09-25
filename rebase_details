@@ -1,0 +1,10 @@
+git rebase details
+1. create brach v1
+2. git pull oringin branch v1
+3. git checkout workbranch dev1
+4. git rebase v1
+5. if conflicted{
+	Resolve all conflicts
+	git add <conflicted file>
+	git rebase --continue
+}
