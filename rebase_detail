@@ -1,0 +1,4 @@
+rebase
+git rebase rebase_test origin/rebase_test
+git add <conflicted file>
+git rebase --continue

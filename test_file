@@ -8,9 +8,12 @@
 7. git master modify
 7. git rebase_test modify
 8. git server modify
+<<<<<<< HEAD
 9. git master modify
 10. git patch
 11. git rebase test
 
 
 12. git rebase test
+9. git rebase
+10. rebase test again
